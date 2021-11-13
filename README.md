@@ -1,3 +1,3 @@
-Made on godot \n
-No idea what this is \n
+Made on godot 
+No idea what this is 
 have fun with it
